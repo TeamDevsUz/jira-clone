@@ -9,6 +9,5 @@ definePageMeta({
 <template>
     <div>
         Auth Page
-        <SharedButton>Button</SharedButton>
     </div>
 </template>
